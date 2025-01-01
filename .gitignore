@@ -1,0 +1,4 @@
+./Zig/zig-out
+./Zig/DistributedComputing
+./Zig/DistributedComputing.o
+./Zig/.zig-cache
