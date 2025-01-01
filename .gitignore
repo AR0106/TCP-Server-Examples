@@ -2,3 +2,4 @@
 ./Zig/DistributedComputing
 ./Zig/DistributedComputing.o
 ./Zig/.zig-cache
+*.DS_Store
